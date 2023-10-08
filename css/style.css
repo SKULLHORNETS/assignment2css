@@ -1,0 +1,32 @@
+/* Enlarge text */
+.lyrics {
+    font-size: 2em;
+    text-align: center;
+    margin: 0 auto;
+    color: whitesmoke;
+    display: inline-block;
+}
+/*lyrics styling*/
+.chorus {
+    font-family: 'Major Mono Display', monospace;
+}
+.verse1 {
+    font-family: 'Xanh Mono', monospace;
+}
+.verse2 {
+    font-family: 'Xanh Mono', monospace;
+}
+.interlude {
+    font-family: 'Xanh Mono', monospace;
+}
+.bridge {
+    font-family: 'Major Mono Display', monospace;
+}
+/* Center everything */
+body {
+    text-align: center;
+    background-image: url("../img/image.png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
